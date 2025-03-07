@@ -20,7 +20,7 @@ Este é o meu **portfólio pessoal**, onde compartilho um pouco sobre mim, as mi
 ---
 
 ## 🎨 Demonstração  
-🔗 **[Acesse o portfólio aqui!](https://seu-site.com/)**  
+🔗 **[Acesse o portfólio aqui!]([https://seu-site.com/](https://samuel00ferreira00.github.io/meu_portfolio/))**  
 
 ---
 
